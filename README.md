@@ -190,7 +190,7 @@ refactor: simplify state update logic
 test: cover task filtering behavior
 docs: improve JavaScript concept notes
 ```
-
+    
 ## `08` / RESOURCES
 
 A curated reference collection for learning, implementation, and deeper technical understanding.
