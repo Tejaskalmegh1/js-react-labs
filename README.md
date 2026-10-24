@@ -131,6 +131,7 @@ js-react-labs/
 │
 ├── javascript/
 │   ├── fundamentals/
+│   ├── arrays/
 │   ├── functions/
 │   ├── modern-javascript/
 │   ├── asynchronous-javascript/
